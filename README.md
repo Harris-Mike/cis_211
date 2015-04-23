@@ -1,1 +1,1 @@
-# cis_211
+# University of Oregon CIS 211 course work
